@@ -1,1 +1,1 @@
-# c++ notes, problems
+# C++ notes, problems
