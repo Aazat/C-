@@ -1,1 +1,2 @@
-# c++ notes, problems
+# C++ notes, problems
+## Compiler : MSVC
